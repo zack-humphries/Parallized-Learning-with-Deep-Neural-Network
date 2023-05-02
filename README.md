@@ -12,7 +12,7 @@ Zack Humphries, Anuradha Agarwal, Thomas Keller
 - /comparision: contains the forward propagation code used to compare results
 - /CUDA: contains all the files related to CUDA
 
-# How to run serial code
+# 2. How to run serial code
 There are 3 command line arguments: number of inputs(30 or 4800), learning rate, and number of epochs
 - How to compile:
 ```
@@ -24,13 +24,13 @@ There are 3 command line arguments: number of inputs(30 or 4800), learning rate,
 	./main <numberofInputs> <learningRate> <numberofEpochs>
 ```
 
-# 2. Dataset Used
+# 3. Dataset Used
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
 
-## 3. Compared to
+# 4. Compared to
 https://github.com/nihil21/parallel_nn
 
-## 4. Report
+# 5. Report
 The file `final_project_report.pdf` contains an in-depth analysis of the paralleled neural networks and algorithms.
 
 ## Licence:
