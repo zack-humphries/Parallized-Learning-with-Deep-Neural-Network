@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Problem Statement}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Set}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Literature Review}{4}{section.3}%
+\contentsline {section}{\numberline {4}Neural Network}{5}{section.4}%
+\contentsline {section}{\numberline {5}Serial code}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}main.c}{5}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Forward Propagation}{5}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Backward Propagation}{6}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}evaluation.h}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Accuracy}{7}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Libraires}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}OpenMP}{9}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Forward Propagation}{9}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Backward Propagation}{10}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Results}{11}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}CUDA}{14}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Forward Propagation}{14}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Backward Propagation}{15}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Results}{16}{subsubsection.6.2.3}%
+\contentsline {section}{\numberline {7}How to run the code}{19}{section.7}%
+\contentsline {section}{\numberline {8}Comparison (Literature)}{19}{section.8}%
+\contentsline {subsection}{\numberline {8.1}OpenMP: comparision}{19}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}CUDA: comparision}{22}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Conclusion}{24}{section.9}%
+\contentsline {section}{\numberline {10}Discussion}{24}{section.10}%
+\contentsline {section}{\numberline {11}Division of Work}{25}{section.11}%
