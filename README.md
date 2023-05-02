@@ -1,6 +1,6 @@
 # Deep Neural Network in C with 2 layers
-## Class: COMP 605: Scientific Computing
-## Names: Zack Humphries, Anuradha Agarwal, Thomas Keller
+Class: COMP 605: Scientific Computing
+Zack Humphries, Anuradha Agarwal, Thomas Keller
 
 
 # Files and folder in this directory:
