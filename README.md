@@ -12,7 +12,8 @@ Zack Humphries, Anuradha Agarwal, Thomas Keller
 - /comparision: contains the forward propagation code used to compare results
 - /CUDA: contains all the files related to CUDA
 
-## 2. How to run serial code
+## 2. How to run...
+### 2a. Serial Code
 There are 3 command line arguments: number of inputs(30 or 4800), learning rate, and number of epochs
 - How to compile:
 ```
@@ -22,6 +23,30 @@ There are 3 command line arguments: number of inputs(30 or 4800), learning rate,
 
 ```
 	./main <numberofInputs> <learningRate> <numberofEpochs>
+```
+
+### 2b. OpenMP Code
+There is only one command line arguments: number of threads
+- How to compile:
+```
+	gcc -g -Wall main.c -o main -lm -fompenmp  
+```
+- How to run: 
+
+```
+	./main <numberOfThreads>
+```
+
+### 2c. CUDA Code (requires prerequisite Nvidia CUDA Toolkit downloaded)
+There are no command line arguments
+- How to compile:
+```
+	nvcc main.cu -o main -lm
+```
+- How to run: 
+
+```
+	./main
 ```
 
 ## 3. Dataset Used
