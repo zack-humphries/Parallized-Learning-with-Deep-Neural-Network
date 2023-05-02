@@ -17,7 +17,7 @@ Zack Humphries, Anuradha Agarwal, Thomas Keller
 There are 3 command line arguments: number of inputs(30 or 4800), learning rate, and number of epochs
 - How to compile:
 ```
-	gcc -o main main.c -lm
+	gcc main.c -o main -lm
 ```
 - How to run: 
 
